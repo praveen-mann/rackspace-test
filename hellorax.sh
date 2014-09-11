@@ -1,4 +1,5 @@
 #!/bin/sh
 
-echo "HELLO RAX"
-echo "HELLO RAX1"
+cat > /etc/hellorax << EOF
+HELLO RAX
+EOF
