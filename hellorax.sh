@@ -1,5 +1,5 @@
 #!/bin/sh
 
 cat > /etc/hellorax << EOF
-HELLO RAX
+HELLO RAX1
 EOF
